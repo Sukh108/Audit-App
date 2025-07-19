@@ -1,5 +1,5 @@
 # Audit-App
-This app is made for safety audit and user role based screen visibilty
+This is simple role based mobile app for internal auditing.
 
 ## Main technologies used
 
